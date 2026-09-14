@@ -1,0 +1,14 @@
+Ticket #005
+
+Issue:
+User reports a display-related hardware issue.
+
+Troubleshooting Performed:
+- Opened Device Manager.
+- Located the display adapter.
+- Reviewed device status.
+- Checked driver provider, date, and version.
+- Verified that Windows reported the device was working properly.
+
+Resolution:
+The display adapter was functioning normally and no driver errors were detected.

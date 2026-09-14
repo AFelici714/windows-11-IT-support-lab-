@@ -1,0 +1,14 @@
+Ticket #001
+
+Issue:
+User reports that the computer is running slowly.
+
+Troubleshooting Performed:
+- Checked Task Manager for high CPU and memory usage.
+- Reviewed startup applications.
+- Checked available storage space.
+- Reviewed temporary files.
+- Checked disk health.
+
+Resolution:
+System performance was reviewed and no critical hardware issues were found. Recommended closing unnecessary applications and limiting high-impact startup programs.

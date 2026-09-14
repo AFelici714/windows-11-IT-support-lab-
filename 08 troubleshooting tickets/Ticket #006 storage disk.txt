@@ -1,0 +1,14 @@
+Ticket #006
+
+Issue:
+User reports low disk space and is concerned about drive health.
+
+Troubleshooting Performed:
+- Opened Disk Management to review partitions.
+- Ran CHKDSK in read-only mode.
+- Checked physical disk health using PowerShell.
+- Reviewed available storage space.
+- Reviewed temporary files and cleanup options.
+
+Resolution:
+Drive health was checked and storage usage was reviewed. No critical disk issues were identified.

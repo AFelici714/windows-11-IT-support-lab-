@@ -1,0 +1,14 @@
+Ticket #002
+
+Issue:
+User reports that they are connected to Wi-Fi but cannot access the internet.
+
+Troubleshooting Performed:
+- Used ipconfig to verify the IPv4 address and default gateway.
+- Pinged the default gateway to confirm local network connectivity.
+- Pinged 8.8.8.8 to test internet connectivity.
+- Used nslookup to test DNS resolution.
+- Flushed the DNS cache using ipconfig /flushdns.
+
+Resolution:
+Network connectivity and DNS resolution were verified successfully. DNS cache was cleared as a troubleshooting step.

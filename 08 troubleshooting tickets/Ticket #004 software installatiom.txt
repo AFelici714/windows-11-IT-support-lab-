@@ -1,0 +1,14 @@
+Ticket #004
+
+Issue:
+User needs 7-Zip installed on their Windows computer.
+
+Troubleshooting Performed:
+- Verified Windows Package Manager (winget) was available.
+- Searched for the correct 7-Zip package using winget.
+- Installed 7-Zip from Command Prompt.
+- Verified the application was successfully installed.
+- Removed the application after testing.
+
+Resolution:
+7-Zip was successfully installed and verified using winget.
